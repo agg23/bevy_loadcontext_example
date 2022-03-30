@@ -10,7 +10,6 @@ bevy = { version = "0.6", features = [
   "dynamic"
 ] }
 anyhow = "1.0.36"
-bevy_editor_pls = { path = "../bevy_editor_pls/crates/bevy_editor_pls" }
 
 # Enable only a small amount of optimization in debug mode
 [profile.dev]
